@@ -10,7 +10,7 @@ The "Reducing Traffic Mortality in USA" project aims to address rising traffic d
 ### 6. Find clusters of similar states in the data
 ### 7. KMeans to visualize clusters in the PCA scatter plot
 ### 8. Visualize the feature differences between the clusters
-![image](https://user-images.githubusercontent.com/121415119/218348990-e733c5a1-3c6c-480d-99f4-490c7c62652d.png)
+![image](https://user-images.githubusercontent.com/121415119/218349066-66669125-9e02-4632-85eb-1e0b87e80130.png)
 
 ### 9. Compute the number of accidents within each cluster
 ### 10. Decision
